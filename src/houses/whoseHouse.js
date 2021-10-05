@@ -1,5 +1,7 @@
+
+
 function whoseHouse() {
-  console.log("HAGRID'S HOUSE!");
+  console.log('Hagrids House');
 }
 
 export default whoseHouse;
